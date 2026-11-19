@@ -1,0 +1,12 @@
+Line 466 | Invalid Quantity | {'Customer': 'Alex Morgan', 'Item': 'Headset', 'Qty': '-2', 'Price Total': '-99.98'}
+Line 1080 | Invalid Quantity | {'Customer': 'Quinn Lewis', 'Item': 'Headset', 'Qty': '2.5', 'Price Total': '124.98'}
+Line 217 | Missing Price Total | {'Customer': 'Casey Brown', 'Item': 'Keyboard', 'Qty': '2', 'Price Total': ''}
+Line 864 | Missing Price Total | {'Customer': 'Sam Wilson', 'Item': 'Keyboard', 'Qty': '2', 'Price Total': ''}
+Line 35 | Invalid Quantity | {'Customer': 'Taylor Smith', 'Item': 'Mouse', 'Qty': 'abc', 'Price Total': '29.98'}
+Line 126 | Missing Qty | {'Customer': 'Jordan Lee', 'Item': 'Monitor', 'Qty': '', 'Price Total': '199.99'}
+Line 570 | Invalid Price Total | {'Customer': 'Jamie Davis', 'Item': 'Mouse', 'Qty': '2', 'Price Total': 'not_a_price'}
+Line 741 | Missing Price Total | {'Customer': 'Avery Miller', 'Item': 'Monitor', 'Qty': '1', 'Price Total': ''}
+Line 1165 | Invalid Quantity | {'Customer': 'Reese Walker', 'Item': 'Mouse', 'Qty': '0', 'Price Total': '0'}
+Line 339 | Missing Customer | {'Customer': '', 'Item': 'Webcam', 'Qty': '3', 'Price Total': '119.97'}
+Line 972 | Invalid Price Total | {'Customer': 'Blake King', 'Item': 'Webcam', 'Qty': '1', 'Price Total': '-39.99'}
+Line 687 | Missing Item | {'Customer': 'Robin Allen', 'Item': '', 'Qty': '1', 'Price Total': '29.99'}
